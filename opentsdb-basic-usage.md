@@ -32,4 +32,4 @@ Even [more](https://www.digitalocean.com/community/tutorials/how-to-install-java
 
 How to write data [click](http://www.erol.si/2014/06/opentsdb-the-perfect-database-for-your-internet-of-things-projects/)
 
-Configuration [file] (https://gist.github.com/kylebrandt/8c09c87fd3147fb51bc3)
+Configuration [file](https://gist.github.com/kylebrandt/8c09c87fd3147fb51bc3)
